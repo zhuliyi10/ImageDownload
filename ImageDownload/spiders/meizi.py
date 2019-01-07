@@ -9,7 +9,7 @@ class MeiZi(scrapy.Spider):
     start_urls = [
         # 'http://www.mmonly.cc/gqbz/',
         # 'http://www.mmonly.cc/tag/xqx/',
-        "http://www.mmonly.cc/tag/90h/"
+        "http://www.mmonly.cc/tag/00h/"
     ]
 
     def parse(self, response):

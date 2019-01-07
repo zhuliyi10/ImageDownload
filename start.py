@@ -1,3 +1,3 @@
 import scrapy.cmdline
 
-scrapy.cmdline.execute(['scrapy', 'crawl', 'meizi'])
+scrapy.cmdline.execute(['scrapy', 'crawl', 'avpic'])

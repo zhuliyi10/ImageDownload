@@ -34,7 +34,7 @@ ROBOTSTXT_OBEY = True
 
 # Disable cookies (enabled by default)
 #COOKIES_ENABLED = False
-IMAGES_STORE = 'H:\python\pic\mmmonly'  # 设置图片保存目录本地
+IMAGES_STORE = 'C:\python\data\spider\images\mmmonly'  # 设置图片保存目录本地
 # Disable Telnet Console (enabled by default)
 #TELNETCONSOLE_ENABLED = False
 

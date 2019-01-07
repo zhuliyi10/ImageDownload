@@ -24,5 +24,5 @@ class ImagedownloadPipeline(ImagesPipeline):
     def file_path(self, request, response=None, info=None):
         item = request.meta['item']
         image_guid = request.url.split('/')[-1]  # 倒数第一个元素
-        filenames = "90后/%s/%s" % (item['name'], image_guid)
+        filenames = "avpic/%s/%s" % (item['name'], image_guid)
         return filenames
