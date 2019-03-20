@@ -1,3 +1,3 @@
 import scrapy.cmdline
 
-scrapy.cmdline.execute(['scrapy', 'crawl', 'avpic'])
+scrapy.cmdline.execute(['scrapy', 'crawl', 'bing_search'])
